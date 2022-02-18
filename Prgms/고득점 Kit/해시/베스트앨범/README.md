@@ -2,7 +2,13 @@
 https://programmers.co.kr/learn/courses/30/lessons/42579
 
 ******
-asd
+장르 별로 가장 많이 재생한 노래를 찾기 위해서 HashMap의 key를 장르를 나타내는 String으로, value를 노래들을 나타내는 객체 Songs로 하였다.
+
+
+Songs와 Song 객체 모두 Comparable을 imlements하였으며, Songs의 프로퍼티로 Song의 PriorityQueue를 만들어서 이 큐에서 2개만 꺼내서 배열을 만들면 정답이 되도록 하였다.
+
+
+이 문제를 통해 Stream에 대해 공부해야겠다고 생각하였다.
 ******
 
 ```java

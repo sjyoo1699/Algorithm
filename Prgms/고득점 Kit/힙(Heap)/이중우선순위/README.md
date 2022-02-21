@@ -15,7 +15,7 @@
 제출 결과 실행 속도는 큐를 두 개 사용한 버전은 70 ~ 130 의 속도가 나왔고, 양방향 큐로 구현한 버전은 평균 속도 40 정도가 나왔다.
 **********
 
-> PriorityDeque 를 직접 구현한 버전 (heap이 아닌 링크드리스트 방식으로 구현)
+> PriorityDeque 를 직접 구현한 버전 (링크드리스트 방식으로 구현)
 ```java
 import java.util.StringTokenizer;
 

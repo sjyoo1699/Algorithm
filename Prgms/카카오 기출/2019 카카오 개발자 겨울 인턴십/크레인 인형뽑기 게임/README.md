@@ -1,5 +1,5 @@
 ## Prgms 크레인 인형뽑기 게임
->> https://programmers.co.kr/learn/courses/30/lessons/64061
+> https://programmers.co.kr/learn/courses/30/lessons/64061
 
 ************
 자료구조 스택을 활용한 문제이다.
